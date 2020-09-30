@@ -34,4 +34,8 @@ Github:
 <img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=bhishanpdl&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhishanpdl&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 About Me:  
-I'm a Ph.D Graduate in Physics 🎓 from Ohio University USA 🏛. I did my research in computational simulation of galaxy images.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newcomers in stackoverflow 👨🏻‍💻. I'm currently looking for opportunities in data science.
+✱ I have a Ph.D degree in AstroPhysics 🎓 from Ohio University USA 🏛.  
+✱ I did my research in computational simulation of galaxy image using machine learning and deep learning algorithms.  
+✱ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  
+✱ I love to explore new technologies and leverage them to solve real-life problems ✨. I used latest methods to achieve the 12th rank on [Analytics Vidhya Sentiment Analysis Proect](https://datahack.analyticsvidhya.com/contest/all/) among thousands of participants.  
+✱ I am a good team player. I beleive in learning by teaching. I have helped and guided millions of stackoverflow programmers with more than 5000 reputations and more than 1 milllion page visits.
