@@ -50,4 +50,4 @@ Github:
 ✱ I love to explore new technologies and leverage them to solve real-life problems ✨. I used latest methods to achieve the 12th rank on [Analytics Vidhya Sentiment Analysis Proect](https://datahack.analyticsvidhya.com/contest/all/) among thousands of participants.  
 
 
-✱ I am a good team player. I believe in learning by teaching. I have helped and guided millions of stackoverflow programmers with more than [5000 reputations](https://stackoverflow.com/users/5200329/bhishan-poudel) and more than 1 milllion page visits.
+✱ I am a good team player. I believe in learning by teaching. I have helped and guided millions of stackoverflow programmers with more than [7000 reputations](https://stackoverflow.com/users/5200329/bhishan-poudel) and more than 1 milllion page visits.
