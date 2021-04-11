@@ -24,7 +24,7 @@ Contact:
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bhishanpdl.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bhishan_poudel)
 
-Stackoverflow: (reputation = 5000+, page visits = 1million+)
+Stackoverflow: (reputation = 7000+, page visits = 1million+)
 
 [![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel)
 
