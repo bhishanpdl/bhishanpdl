@@ -38,7 +38,7 @@ Github:
 
 ✱ I have Masters and Ph.D degree in AstroPhysics from Ohio University USA.  
 ✱  As a masters student in 2014, I designed and maintained astronomical image processing module [jedisim](https://github.com/bhishanpdl/jedisim).  
-✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (sphinx and readthedocs) and various other software development skills.  
+✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (Sphinx and ReadTheDocs) and various other software development skills.  
 
 
 ✱ During my 6 years of Masters + Ph.D. program and doing multiple [MOOC courses](https://bhishanpdl.github.io/education.html), to facilitate my day-to-day data science tasks, I developed my own python package ([bp](https://github.com/bhishanpdl/bp)).  
@@ -47,4 +47,4 @@ Github:
 
 
 ✱ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  
-✱ I love to explore new technologies and leverage them to solve real-life problems ✨. I used latest methods to achieve the 12th rank on [Analytics Vidhya Sentiment Analysis Proect](https://datahack.analyticsvidhya.com/contest/all/) among thousands of participants.
+✱ I love to explore new technologies and leverage them to solve real-life problems ✨. I used latest methods to achieve the 12th rank on [Analytics Vidhya Sentiment Analysis Project](https://datahack.analyticsvidhya.com/contest/all/) among thousands of participants.
