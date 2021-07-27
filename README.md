@@ -41,10 +41,9 @@ Github:
 ✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (Sphinx and ReadTheDocs) and various other software development skills.  
 
 
-✱ During my 6 years of Masters + Ph.D. program and doing multiple [MOOC courses](https://bhishanpdl.github.io/education.html), to facilitate my day-to-day data science tasks, I developed my own python package ([bp](https://github.com/bhishanpdl/bp)).  
-✱ This module extends pandas API and includes [extensive visualization snippets](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_num_and_cat.ipynb), [data analysis](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_description.ipynb),
+✱ During my 6 years of Masters + Ph.D. program and doing multiple [MOOC courses](https://bhishanpdl.github.io/education.html), to facilitate my day-to-day data science tasks, I developed my own python package ([bp](https://github.com/bhishanpdl/bp)) which extends pandas API and includes [extensive visualization snippets](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_num_and_cat.ipynb), [data analysis](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_description.ipynb),
 [machine learning](https://github.com/bhishanpdl/bp/blob/master/examples/example_model_eval.ipynb), [statistical tests](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_stats.ipynb) and [timeseries methods](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_timeseries.ipynb).
 
-
 ✱ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  
-✱ I love to explore new technologies and leverage them to solve real-life problems ✨. I used latest methods to achieve the 12th rank on [Analytics Vidhya Sentiment Analysis Project](https://datahack.analyticsvidhya.com/contest/all/) among thousands of participants.
+✱ I love to explore new technologies and leverage them to solve real-life problems.
+✨I used latest methods to achieve the 12th rank on [Analytics Vidhya Sentiment Analysis Project](https://datahack.analyticsvidhya.com/contest/all/) among thousands of participants.
