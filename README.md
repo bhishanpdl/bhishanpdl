@@ -36,8 +36,10 @@ Github:
 
 <h2 style="color: tomato;">ABOUT ME:</h2>
 
+✱ I am currently working as Data Scientis II in AmerisourceBergen company.
+✱ I have been working on AdminFee calculation and Rebate analysis of the customers of the company.
 ✱ I have Masters and Ph.D degree in AstroPhysics from Ohio University USA.  
-✱  As a masters student in 2014, I designed and maintained astronomical image processing module [jedisim](https://github.com/bhishanpdl/jedisim).  
+✱ As a Masters student in 2014, I designed and maintained astronomical image processing module [jedisim](https://github.com/bhishanpdl/jedisim).  
 ✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (Sphinx and ReadTheDocs) and various other software development skills.  
 
 
