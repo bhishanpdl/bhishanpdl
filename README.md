@@ -25,8 +25,8 @@ Contact:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bhishan_poudel)
 
 Stackoverflow:
-
-[![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel)
+<!-- 
+[![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel) -->
 
 Github:
 
