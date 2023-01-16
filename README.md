@@ -21,7 +21,7 @@ DL:
 
 Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhishan-poudel-a83351b4/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bhishanpdl.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bhishanpoudel123.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bhishan_poudel)
 
 <!-- Stackoverflow:
@@ -43,7 +43,7 @@ Github:
 ✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (Sphinx and ReadTheDocs) and various other software development skills.  
 
 
-✱ During my 6 years of Masters + Ph.D. program and doing multiple [MOOC courses](https://bhishanpdl.github.io/education.html), to facilitate my day-to-day data science tasks, I developed my own python package ([bp](https://github.com/bhishanpdl/bp)) which extends pandas API and includes [extensive visualization snippets](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_num_and_cat.ipynb), [data analysis](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_description.ipynb),
+✱ During my 6 years of Masters + Ph.D. program and doing multiple [MOOC courses](https://bhishanpoudel123.github.io/education.html), to facilitate my day-to-day data science tasks, I developed my own python package ([bp](https://github.com/bhishanpdl/bp)) which extends pandas API and includes [extensive visualization snippets](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_num_and_cat.ipynb), [data analysis](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_description.ipynb),
 [machine learning](https://github.com/bhishanpdl/bp/blob/master/examples/example_model_eval.ipynb), [statistical tests](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_stats.ipynb) and [timeseries methods](https://nbviewer.jupyter.org/github/bhishanpdl/bp/blob/master/examples/pandas_api_timeseries.ipynb).
 
 ✱ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  
