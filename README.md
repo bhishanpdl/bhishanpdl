@@ -22,7 +22,7 @@ DL:
 Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhishan-poudel-a83351b4/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bhishanpoudel123.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bhishan_poudel)
+
 
 <!-- Stackoverflow:
 
@@ -36,8 +36,9 @@ Github:
 
 <h2 style="color: tomato;">ABOUT ME:</h2>
 
-✱ I am currently working as Data Scientis II in AmerisourceBergen company.
-✱ I have been working on AdminFee calculation and Rebate analysis of the customers of the company.
+✱ I am currently working as Data Scientist II in Healthcare Company called "Cencora" aka AmerisourceBergen in the Patient Service Section.
+✱ My job includes creating advanced Chatbot for our in-house ChatGPT alike plaform (CenChat) using Generative AI so that we can directly QA the Patient Care Databases.
+✱ Other projects includes providing patient care insights using Databricks SQL, PySpark and building PowerBI Dashboards and also provide time-series insights for some drugs.
 ✱ I have Masters and Ph.D degree in AstroPhysics from Ohio University USA.  
 ✱ As a Masters student in 2014, I designed and maintained astronomical image processing module [jedisim](https://github.com/bhishanpdl/jedisim).  
 ✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (Sphinx and ReadTheDocs) and various other software development skills.  
