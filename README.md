@@ -2,8 +2,7 @@
 
 Programming Languages:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
- <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src ="https://img.shields.io/badge/SQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 Tools:
  <img src="https://img.shields.io/badge/Azure Databricks%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
