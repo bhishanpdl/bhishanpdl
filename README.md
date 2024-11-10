@@ -6,13 +6,22 @@ Programming Languages:
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 Tools:
- <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Azure Databricks%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/LaTex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
+ Generative AI:
+<img src="https://img.shields.io/badge/OpenAI%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Langchain%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Langgraph%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+
+ Web Deployment:
+<img src="https://img.shields.io/badge/FastAPI%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chainlit%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
 
  Machine Learning:
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikitlearn%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
 
 Deep Learning:
