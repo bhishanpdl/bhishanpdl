@@ -1,6 +1,6 @@
 ![Hi, I'm Bhihsan 👋 I'm a 🚀 Data Scientist 🚀 I have a Ph.D in Physics.](images/intro.gif)
 
-Languages:
+Programming Languages:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -11,11 +11,11 @@ Tools:
  <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
 
- ML:
+ Machine Learning:
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikitlearn%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
 
-DL:
+Deep Learning:
  <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
  <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 
@@ -24,9 +24,9 @@ Contact:
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bhishanpoudel123.github.io/)
 
 
-<!-- Stackoverflow:
+-- Stackoverflow:
 
-[![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel) -->
+[![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel)
 
 Github:
 
