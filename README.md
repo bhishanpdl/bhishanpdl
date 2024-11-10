@@ -23,6 +23,12 @@ Tools:
  Machine Learning:
 <img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikitlearn%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prophet%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statsmodels%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARIMA%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/RandomForest%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
 
 Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhishan-poudel-a83351b4/)
