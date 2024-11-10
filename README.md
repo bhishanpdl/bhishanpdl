@@ -28,16 +28,14 @@ Stackoverflow:
 [![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel)
 
 Github:
-
-
 <img align="" height='137px' src="https://github-readme-stats.vercel.app/api?username=bhishanpdl&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhishanpdl&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 
 <h2 style="color: tomato;">ABOUT ME:</h2>
 
-✱ I am currently working as Data Scientist II in Healthcare Company called "Cencora" aka AmerisourceBergen in the Patient Service Section.
-✱ My job includes creating advanced Chatbot for our in-house ChatGPT alike plaform (CenChat) using Generative AI so that we can directly QA the Patient Care Databases.
-✱ Other projects includes providing patient care insights using Databricks SQL, PySpark and building PowerBI Dashboards and also provide time-series insights for some drugs.
+✱ I am currently working as Data Scientist II in Healthcare Company called "Cencora" aka AmerisourceBergen in the Patient Service Section.  
+✱ My job includes creating advanced Chatbot for our in-house ChatGPT alike plaform (CenChat) using Generative AI so that we can directly QA the Patient Care Databases.  
+✱ Other projects includes providing patient care insights using Databricks SQL, PySpark and building PowerBI Dashboards and also provide time-series insights for some drugs.  
 ✱ I have Masters and Ph.D degree in AstroPhysics from Ohio University USA.  
 ✱ As a Masters student in 2014, I designed and maintained astronomical image processing module [jedisim](https://github.com/bhishanpdl/jedisim).  
 ✱ This project taught me the concepts of OOP, GitHub version control, continuous integration, unit testing, code debugging, documentation (Sphinx and ReadTheDocs) and various other software development skills.  
