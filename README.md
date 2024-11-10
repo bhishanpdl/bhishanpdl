@@ -24,8 +24,7 @@ Contact:
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bhishanpoudel123.github.io/)
 
 
--- Stackoverflow:
-
+Stackoverflow:
 [![Bhishan Poudel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5200329&layout=compact&theme=dark)](https://stackoverflow.com/users/5200329/bhishan-poudel)
 
 Github:
