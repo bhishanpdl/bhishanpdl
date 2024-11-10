@@ -21,14 +21,15 @@ Tools:
 <img src="https://img.shields.io/badge/Chainlit%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
 
  Machine Learning:
-<img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikitlearn%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prophet%20-%23.svg?&style=for-the-badge&logo=prophet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statsmodels%20-%23.svg?&style=for-the-badge&logo=statsmodels&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARIMA%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/RandomForest%20-%23.svg?&style=for-the-badge&logo=sklearn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Scikit_Learn%20-%230076A8.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
+ <img src="https://img.shields.io/badge/Prophet%20-%2300BFB2.svg?&style=for-the-badge&logo=prophet&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Statsmodels%20-%239A0036.svg?&style=for-the-badge&logo=statsmodels&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/ARIMA%20-%23FF5F00.svg?&style=for-the-badge&logo=arima&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/XGBoost%20-%23E76F51.svg?&style=for-the-badge&logo=xgboost&logoColor=white" />
+ <img src="https://img.shields.io/badge/LightGBM%20-%23BFFF00.svg?&style=for-the-badge&logo=lightgbm&logoColor=white" />
+ <img src="https://img.shields.io/badge/Random_Forest%20-%2358A4B0.svg?&style=for-the-badge&logo=randomforest&logoColor=white" />
+
 
 Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhishan-poudel-a83351b4/)
